@@ -22,7 +22,7 @@ Custom Queue (Enqueue, Dequeue, Peek) with empty queue checks.
 
 
 ### member 03
-name: Pasan bimsara piris Samarakkody
+name: Pasan bimsara peiris Samarakkody
 student ID: 23da2-0140
 Assigned responsibilities: Linked List Implementation
 induvidual contribution: Node class and Singly Linked List operations (Insert, Delete, Search, Display)
